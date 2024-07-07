@@ -1,0 +1,27 @@
+.main{
+  /* margin: 20px; */
+  margin: 0 auto;
+  border-color: blue;
+  /* border-style: dotted; */
+  padding: 20px;
+  display: flex;
+  width: 400px;
+  background: #fefae0;
+  color: #2b2839;
+  border-bottom: 6px solid #ffafcc;
+  justify-content: space-around;
+  border-radius: 10px 50px;
+  box-shadow: inset 0px 10px 0px #000000;
+  
+}
+.pic{height: 200px;
+  width: 150px;
+
+}
+.text{
+  display: flex;
+  /* border: 1px solid ; */
+  flex-direction: column;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
